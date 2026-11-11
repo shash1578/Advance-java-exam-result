@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Online Examination and Result Management System
 
 An enterprise-grade, database-driven web application built with **Java 21, Jakarta Servlets 6.0, JSP 3.1, JDBC, and MySQL**, designed to run on **Apache Tomcat 10.1+**.
@@ -241,3 +242,6 @@ adv_java-mcp/
 - [x] Official printable & downloadable PDF marksheet
 - [x] Result export to CSV
 - [x] Tomcat 10.1 deployment package (`online-exam-system.war`)
+=======
+# Advance-java-exam-result
+>>>>>>> 6c541587bfaf8c86276e8ea1ecf187ec515c5c49
